@@ -70,6 +70,7 @@
 		<dc:contributor id="translator">Minna Caroline Smith</dc:contributor>
 		<meta property="file-as" refines="#translator">Smith, Minna Caroline</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no99069464</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Nicolás Enríquez</dc:contributor>
 		<meta property="file-as" refines="#artist">Enríquez, Nicolás</meta>
