@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith</dc:identifier>
 		<dc:date>2026-06-01T20:50:47Z</dc:date>
@@ -51,11 +51,11 @@
 		<meta id="collection-1" property="belongs-to-collection">National Episodes of Spain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:description id="description">A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Gabriel de Araceli is a young volunteer in the Spanish army who arrives in the city of Zaragoza eager to defend it against an anticipated attack by the French. Gabriel quickly befriends a local youth, Augustine Montoria, who faces not only the extramural struggle against the invading French, but also the personal intramural turmoil caused by his love of Mariquilla, the daughter of his father’s enemy.&lt;/p&gt;
 			&lt;p&gt;This sixth book in &lt;a href="https://standardebooks.org/ebooks/benito-perez-galdos"&gt;Benito Pérez Galdós’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/national-episodes-of-spain"&gt;National Episodes of Spain&lt;/a&gt; puts a human face on the brutal historical events of the 1809 Siege of Zaragoza. &lt;em&gt;Saragossa&lt;/em&gt; explores themes of valor, patriotism, and duty in the face of overwhelming odds.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47769</dc:source>
 		<dc:source>https://archive.org/details/saragossa0000unse</dc:source>
