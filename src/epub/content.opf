@@ -51,7 +51,7 @@
 		<meta id="collection-1" property="belongs-to-collection">National Episodes of Spain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:abstract>A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.</dc:abstract>
+		<meta property="schema:abstract">A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.</meta>
 		<dc:description>
 			&lt;p&gt;Gabriel de Araceli is a young volunteer in the Spanish army who arrives in the city of Zaragoza eager to defend it against an anticipated attack by the French. Gabriel quickly befriends a local youth, Augustine Montoria, who faces not only the extramural struggle against the invading French, but also the personal intramural turmoil caused by his love of Mariquilla, the daughter of his father’s enemy.&lt;/p&gt;
 			&lt;p&gt;This sixth book in &lt;a href="https://standardebooks.org/ebooks/benito-perez-galdos"&gt;Benito Pérez Galdós’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/national-episodes-of-spain"&gt;National Episodes of Spain&lt;/a&gt; puts a human face on the brutal historical events of the 1809 Siege of Zaragoza. &lt;em&gt;Saragossa&lt;/em&gt; explores themes of valor, patriotism, and duty in the face of overwhelming odds.&lt;/p&gt;
