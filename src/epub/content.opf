@@ -41,10 +41,10 @@
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
-		<dc:subject id="subject-2">Sieges -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Sieges--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008111651</meta>
-		<dc:subject id="subject-3">Zaragoza (Spain) -- History -- Siege, 1808-1809 -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Zaragoza (Spain)--History--Siege, 1808-1809--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
